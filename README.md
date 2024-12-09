@@ -47,6 +47,16 @@ Your goal is to review the Flatdraw repository, analyze its current implementati
 
 --- 
 
+Final Deliverable
+
+The final deliverable will be accepted in any form (e.g., a document, presentation, or code snippet). Please choose the format that best conveys your recommendations and solutions.
+
+Time Expectation
+
+This challenge is designed to take approximately 2-3 hours of focused work. Please manage your time accordingly and focus on quality over quantity.
+
+---
+
 ##  Problems/Feedback
 
 If you have any feedback or problems throughout these challenges, feel free to reach out to employment@arbitrsecurity.com
