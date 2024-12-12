@@ -8,7 +8,7 @@ We are thrilled that you're interested in joining our team! This role is incredi
 You are tasked with evaluating an existing canvas-based drawing application, Flatdraw, which is built using TypeScript, React, and Next.js. The project is functional and well-structured but could benefit from modernization and enhancements to improve its performance, usability, and maintainability.
 
 ## Objective
-Your goal is to review the Flatdraw repository, analyze its current implementation, and provide recommendations for modernization and improvement. Specifically, focus on areas such as architecture, scalability, UI/UX, and integration of new technologies.
+Your goal is to review the Flatdraw repository (https://github.com/diogocapela/flatdraw), analyze its current implementation, and provide recommendations for modernization and improvement. Specifically, focus on areas such as architecture, scalability, UI/UX, and integration of new technologies.
 
 ### Flatdraw
 ![Flatdraw Image](images/flatdraw.png)
